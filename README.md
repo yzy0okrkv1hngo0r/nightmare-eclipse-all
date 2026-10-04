@@ -1,14 +1,5 @@
 # nightmare-eclipse-all
 
-This repository is an umbrella project that aggregates multiple standalone C/C++ components and submodules into a single codebase. It combines a number of named modules and Windows-oriented project folders under one root repository.
-
-## Overview
-
-The repository is primarily a collection of native code projects rather than a single app. Based on the repository metadata, the language composition is:
-
-- C++: 50.2%
-- C: 49.7%
-- C#: 0.1%
 
 ## Included components
 
